@@ -4,9 +4,14 @@
 
 - Language's used:- HTML, CSS, JS
 
+- Framework- ReactJs 
+
+- Commands used for build version:- npm run build 
+
 - Deployment:- [Netlify app](https://niks-chatapp-abf3b3.netlify.app)
 
 - BackEnd:- ChatEngine.io API 
+
 
 ## 🔗 Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nikhil-soni-435b13217/)
