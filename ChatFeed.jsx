@@ -2,7 +2,7 @@ import { render } from '@testing-library/react';
 import { ChatHeader } from 'react-chat-engine';
 import MessageForm from './MessageForm';
 import MyMessage from './MyMessage';
-import TheirMessage from './TheirMessage';
+
 
 const ChatFeed = (props) => {
     const { chats, activeChat, userName, messages } = props;
