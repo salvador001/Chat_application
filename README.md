@@ -1,7 +1,6 @@
 
 <h1 align="center">Dynamic React Chat Application</h1>
--Created from scratch on ReactJs library
-
+-Created from scratch on ReactJs framework.
 - Language's used:- HTML, CSS, JS
 
 - Framework- ReactJs 
