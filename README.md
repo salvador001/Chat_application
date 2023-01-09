@@ -7,7 +7,7 @@
 
 - Commands used for build version:- npm run build 
 
-- Deployment:- [Netlify app](https://niks-chatapp-abf3b3.netlify.app)
+- Deployment:- [Netlify app](https://talknvibe-nikhil-b12c76.netlify.app/)
 
 - BackEnd:- ChatEngine.io API 
 
